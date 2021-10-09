@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+  }
+  
+  h3 {
+    font-weight: normal;
+  }
+  
+  .container {
+    border: #c0c0c0 1px solid;
+    margin: 20px;
+    padding: 10px;
+  }
+  
